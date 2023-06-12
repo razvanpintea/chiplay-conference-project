@@ -1,0 +1,21 @@
+/**
+ * Cascade Styling Sheet for the Home Page component
+ * 
+ * @author Razvan Cristian Pintea w20018875
+ */
+
+ #homeMain{
+  min-height: 87.8vh;
+}
+
+#homeFooter {
+  margin: auto;
+  background-color: rgb(85, 83, 83);
+  color: white;
+  padding-bottom: 7px;
+}
+
+img{
+  margin-top: 50px;
+  max-width: 23%;
+}

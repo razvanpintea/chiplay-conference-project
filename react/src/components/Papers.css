@@ -1,0 +1,24 @@
+/**
+ * Cascade Styling Sheet for the display of papers 
+ * 
+ * @author Razvan Cristian Pintea w20018875
+ */
+
+#abstract {
+  padding-left: 100px;
+  padding-right: 100px;
+
+}
+
+#main {
+  min-height: 84vh;
+}
+
+footer {
+  position: sticky;
+  top: 100%;
+  margin-top: 30px;
+  background-color: rgb(85, 83, 83);
+  color: white;
+  padding-bottom: 5px;
+}

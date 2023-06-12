@@ -1,0 +1,36 @@
+/**
+ * Cascade Styling Sheet for the AdminPage component
+ * 
+ * @author Razvan Cristian Pintea w20018875
+ */
+
+ #adminMain{
+  min-height: 92.1vh;
+}
+
+#firstFooter {
+  position: sticky;
+  background-color: rgb(85, 83, 83);
+  color: white;
+}
+
+#secondFooter {
+  position: sticky;
+  margin-top: 30px;
+  background-color: rgb(85, 83, 83);
+  color: white;
+  padding-bottom: 5px;
+}
+
+#user {
+  text-align: left;
+  margin-left: 110px;
+}
+
+#adminButton {
+  margin-right: 1220px;
+  font-size: small;
+}
+
+
+
